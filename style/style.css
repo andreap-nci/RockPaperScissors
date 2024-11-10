@@ -1,0 +1,12 @@
+body{
+    background-color: #02081b;
+    color:aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    text-align: center;
+}
+
+
+button{
+    font-size: 30px;
+}
